@@ -1,7 +1,3 @@
-/*Name- Ritisha Naigaonkar
-PRN-24070521045
-sec-A*/
-
 %{
 #include <stdio.h>
 %}
